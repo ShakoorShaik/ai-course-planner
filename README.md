@@ -2,7 +2,8 @@
 
 
 ## 📌 **About the Project**  
-UTSC Path Builder is a **course planning tool** designed to help students at the **University of Toronto Scarborough (UTSC)** efficiently plan their academic journey. The platform provides interactive features for **tracking courses, checking prerequisites, verifying program requirements, and making informed course decisions** based on peer ratings and recommendations.
+UTSC Path Builder is a **course planning tool** designed to help students at the **University of Toronto Scarborough (UTSC)** efficiently plan their academic journey. The platform provides interactive features for **tracking courses, checking prerequisites, verifying program requirements, and making informed course decisions** based on peer ratings and recommendations. This project was done in a team of 5 includling Kevin, Maria, Mohamad, Madafue, and Shakoor. This is a copy of the main repo to display the project on my end.
+
 
 ---
 
