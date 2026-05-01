@@ -1,8 +1,8 @@
-# **UTSC Path Builder** 🎓  
+# **UofT AI Course Planner** 🎓  
 
 
 ## 📌 **About the Project**  
-UTSC Path Builder is a **course planning tool** designed to help students at the **University of Toronto Scarborough (UTSC)** efficiently plan their academic journey. The platform provides interactive features for **tracking courses, checking prerequisites, verifying program requirements, and making informed course decisions** based on peer ratings and recommendations. This project was done in a team of 5 includling Kevin, Maria, Mohamad, Madafue, and Shakoor. This is a copy of the main repo to display the project on my end.
+UofT AI Course Planner is a **course planning tool** designed to help students at the **University of Toronto** efficiently plan their academic journey. The platform provides interactive features for **tracking courses, checking prerequisites, verifying program requirements, and making informed course decisions** based on peer ratings and recommendations. This project was done in a team of 5 includling Kevin, Maria, Mohamad, Madafue, and Shakoor. This is a copy of the main repo to display the project on my end.
 
 
 ---
@@ -66,7 +66,7 @@ UTSC Path Builder is a **course planning tool** designed to help students at the
    - The app will run on http://127.0.0.1:5000/
    
 ## 🚀 **Getting Started**  
-To start using UTSC Path Builder, follow these steps:  
+To start using the course planner, follow these steps:  
 
 1. **Log in** to your account to access personalized features.  
 2. **Add your completed courses** to "My Courses."  
