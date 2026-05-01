@@ -25,7 +25,7 @@ UofT AI Course Planner is a **course planning tool** designed to help students a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/CREATE-UofT/UTSC-Path-Builder.git
+   git clone [https://github.com/CREATE-UofT/UTSC-Path-Builder.git](https://github.com/ShakoorShaik/ai-course-planner.git)
    cd utsc-path-builder
    ```
 
