@@ -1,5 +1,6 @@
 # **UofT AI Course Planner** 🎓  
 
+<img width="1696" height="979" alt="Image" src="https://github.com/user-attachments/assets/e5cb7ef8-cd53-4327-82c8-a40fb4e4c90d" />
 
 ## 📌 **About the Project**  
 UofT AI Course Planner is a **course planning tool** designed to help students at the **University of Toronto** efficiently plan their academic journey. The platform provides interactive features for **tracking courses, checking prerequisites, verifying program requirements, and making informed course decisions** based on peer ratings and recommendations. This project was done in a team of 5 includling Kevin, Maria, Mohamad, Madafue, and Shakoor. This is a copy of the main repo to display the project on my end.
